@@ -1,0 +1,6 @@
+{
+  "name": "AI Control Center",
+  "description": "Plataforma de gestão de modelos de IA (LLMs) auto-hospedadas com API Gateway compatível com OpenAI, monitoramento de servidores e multi-tenant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
